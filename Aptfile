@@ -1,9 +1,2 @@
 ffmpeg
-git
-libavformat-dev
-libavcodec-dev
-libavdevice-dev
-libavutil-dev
-libswscale-dev
-libswresample-dev
-libavfilter-dev
+libopus0
