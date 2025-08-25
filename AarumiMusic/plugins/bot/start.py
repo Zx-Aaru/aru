@@ -27,18 +27,18 @@ from AarumiMusic.utils.inline import first_page, private_panel, start_panel
 from config import BANNED_USERS
 from strings import get_string
 
-AARUMI_PIC = ["https://files.catbox.moe/fh7vw7.jpg",
-          "https://files.catbox.moe/lckxh6.jpg",
-          "https://files.catbox.moe/smteo6.jpg",
-          "https://files.catbox.moe/7enu2i.jpg",
-          "https://files.catbox.moe/n6hkvd.jpg",
-          "https://files.catbox.moe/ej1p7t.jpg",
-          "https://files.catbox.moe/fh7vw7.jpg",
-          "https://files.catbox.moe/lckxh6.jpg",
-          "https://files.catbox.moe/smteo6.jpg",
-          "https://files.catbox.moe/7enu2i.jpg",
-          "https://files.catbox.moe/n6hkvd.jpg",
-          "https://files.catbox.moe/ej1p7t.jpg"]
+AARUMI_PIC = ["https://files.catbox.moe/u7z9lr.jpg",
+          "https://files.catbox.moe/vh6l5b.jpg",
+          "https://files.catbox.moe/u7z9lr.jpg",
+          "https://files.catbox.moe/vh6l5b.jpg",
+          "https://files.catbox.moe/u7z9lr.jpg",
+          "https://files.catbox.moe/vh6l5b.jpg",
+          "https://files.catbox.moe/u7z9lr.jpg",
+          "https://files.catbox.moe/vh6l5b.jpg",
+          "https://files.catbox.moe/u7z9lr.jpg",
+          "https://files.catbox.moe/vh6l5b.jpg",
+          "https://files.catbox.moe/u7z9lr.jpg",
+          "https://files.catbox.moe/u7z9lr.jpg"]
 
 SHASHANK_PH = [
     "https://files.catbox.moe/jrupn9.jpg",
