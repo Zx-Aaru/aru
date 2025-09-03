@@ -27,35 +27,35 @@ from AarumiMusic.utils.inline import first_page, private_panel, start_panel
 from config import BANNED_USERS
 from strings import get_string
 
-AARUMI_PIC = ["https://files.catbox.moe/5c5fxw.jpg",
-          "https://files.catbox.moe/5c5fxw.jpg",
-          "https://files.catbox.moe/5c5fxw.jpg",
-          "https://files.catbox.moe/5c5fxw.jpg",
-          "https://files.catbox.moe/5c5fxw.jpg",
-          "https://files.catbox.moe/5c5fxw.jpg",
-          "https://files.catbox.moe/5c5fxw.jpg",
-          "https://files.catbox.moe/5c5fxw.jpg",
-          "https://files.catbox.moe/5c5fxw.jpg",
-          "https://files.catbox.moe/5c5fxw.jpg",
-          "https://files.catbox.moe/5c5fxw.jpg",
-          "https://files.catbox.moe/5c5fxw.jpg"]
+AARUMI_PIC = ["https://files.catbox.moe/aov76u.jpg",
+          "https://files.catbox.moe/jwlita.jpg",
+          "https://files.catbox.moe/75au5f.jpg",
+          "https://files.catbox.moe/fh7vw7.jpg",
+          "https://files.catbox.moe/8g39st.jpg",
+          "https://files.catbox.moe/8q4t6u.jpg",
+          "https://files.catbox.moe/aov76u.jpg",
+          "https://files.catbox.moe/jwlita.jpg",
+          "https://files.catbox.moe/75au5f.jpg",
+          "https://files.catbox.moe/8g39st.jpg",
+          "https://files.catbox.moe/8q4t6u.jpg",
+          "https://files.catbox.moe/fh7vw7.jpg"]
 
 SHASHANK_PH = [
-    "https://files.catbox.moe/5c5fxw.jpg",
-    "https://files.catbox.moe/5c5fxw.jpg",
-    "https://files.catbox.moe/5c5fxw.jpg",
-    "https://files.catbox.moe/5c5fxw.jpg",
-    "https://files.catbox.moe/5c5fxw.jpg",
-    "https://files.catbox.moe/5c5fxw.jpg",
-    "https://files.catbox.moe/5c5fxw.jpg",
-    "https://files.catbox.moe/5c5fxw.jpg",
-    "https://files.catbox.moe/5c5fxw.jpg",
-    "https://files.catbox.moe/5c5fxw.jpg",
-    "https://files.catbox.moe/5c5fxw.jpg",
-    "https://files.catbox.moe/5c5fxw.jpg"
-    "https://files.catbox.moe/5c5fxw.jpg",
-    "https://files.catbox.moe/5c5fxw.jpg",
-    "https://files.catbox.moe/5c5fxw.jpg",
+    "https://files.catbox.moe/aov76u.jpg",
+    "https://files.catbox.moe/jwlita.jpg",
+    "https://files.catbox.moe/75au5f.jpg",
+    "https://files.catbox.moe/fh7vw7.jpg",
+    "https://files.catbox.moe/8g39st.jpg",
+    "https://files.catbox.moe/8q4t6u.jpg",
+    "https://files.catbox.moe/jwlita.jpg",
+    "https://files.catbox.moe/75au5f.jpg",
+    "https://files.catbox.moe/fh7vw7.jpg",
+    "https://files.catbox.moe/8g39st.jpg",
+    "https://files.catbox.moe/8q4t6u.jpg",
+    "https://files.catbox.moe/8g39st.jpg"
+    "https://files.catbox.moe/8q4t6u.jpg",
+    "https://files.catbox.moe/aov76u.jpg",
+    "https://files.catbox.moe/fh7vw7.jpg",
 ]
 
 STICKERS = [  
