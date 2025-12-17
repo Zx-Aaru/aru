@@ -6,9 +6,10 @@ from pyrogram import filters
 
 load_dotenv()
 
-API_URL = getenv("API_URL", 'https://pytdbotapi.thequickearn.xyz') #youtube song url
-VIDEO_API_URL = getenv("VIDEO_API_URL", 'https://api.video.thequickearn.xyz')
-API_KEY = getenv("API_KEY", "NxGBNexGenBotsd4f774") 
+# Vars For API End Pont.
+YTPROXY_URL = getenv("YTPROXY_URL", 'https://tgapi.xbitcode.com') ## xBit Music Endpoint.
+YT_API_KEY = getenv("YT_API_KEY", 'xbit_ifuUJWNE8B9wog6LtHaOtK4fLgOWA5vl') ## Your API key like: xbit_10000000xx0233 Get from  https://t.me/tgmusic_apibot
+
 
 API_ID = int(getenv("API_ID", ""))
 
